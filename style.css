@@ -1,0 +1,70 @@
+body {
+    background-image: url("wb_background.png");
+    font-family: 'Michroma', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: rgb(48, 48, 120);
+    background: rgb(19, 19, 105);
+}
+
+h2 {
+    color: rgb(19, 19, 105);
+    background: rgb(48, 48, 120);
+}
+
+
+img {
+    margin-left: 8px;
+    margin-top: 17px;
+}
+
+p.intro {
+    font-size: 75px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 95px;
+    color: rgb(0, 255, 255);
+}
+
+p.fullname {
+    margin-bottom: 0px;
+    float:left;
+    font-size: 75px;
+    color: rgb(0, 255, 255);
+}
+
+p.main {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 95px;
+    color: rgb(0, 255, 255);
+}
+
+
+p.lis {
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    margin-left: 95px;
+    color: rgb(0, 255, 255);
+}
+
+
+div.logoextra {
+    color: rgb(0, 255, 255);
+    float: right;
+    opacity: 0;
+    margin-right: 1418px;
+}
+
+div.logoextra:hover {
+    opacity: 1;
+}
+
+button {
+    float:right;
+}
